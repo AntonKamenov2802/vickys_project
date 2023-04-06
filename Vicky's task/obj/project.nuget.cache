@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y7zlHSNYeSZyKk1g7wjDTsksgV4zem2l2XdAsNckMNtFynHQtaamSroUtth5IsnwFhWCblYsFc3oQP+B5tvH3w==",
+  "dgSpecHash": "aM2KN/gvdx9BxjxEIJ1RNTfnQnIyboU4FuRGhOb7JQS9MZXpqiWXEbhARPzMokZFm15UG1znDsXGvRifKAXSDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Anton\\Documents\\Projects\\Vicky's task\\Vicky's task.csproj",
+  "projectFilePath": "C:\\Users\\Anton\\Documents\\Projects\\vickys_project\\Vicky's task\\Vicky's task.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anton\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
   ],

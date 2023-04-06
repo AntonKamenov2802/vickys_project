@@ -55,11 +55,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anton\\Documents\\Projects\\Vicky's task\\Vicky's task.csproj",
+      "projectUniqueName": "C:\\Users\\Anton\\Documents\\Projects\\vickys_project\\Vicky's task\\Vicky's task.csproj",
       "projectName": "Vicky's task",
-      "projectPath": "C:\\Users\\Anton\\Documents\\Projects\\Vicky's task\\Vicky's task.csproj",
+      "projectPath": "C:\\Users\\Anton\\Documents\\Projects\\vickys_project\\Vicky's task\\Vicky's task.csproj",
       "packagesPath": "C:\\Users\\Anton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anton\\Documents\\Projects\\Vicky's task\\obj\\",
+      "outputPath": "C:\\Users\\Anton\\Documents\\Projects\\vickys_project\\Vicky's task\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

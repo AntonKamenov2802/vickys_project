@@ -1,14 +1,14 @@
 abbreviation,fullName,specialRanking
 ABK,Aalborg BK,W
-AGF,Aarhus GF,
-ABC,AB Copenhagen,
-ACH,AC Horsens,
-OBK, Odense BK,
-RFC, Randers FC,
-VBK, Vejle BK,
-VFF, Viborg FF,
-LBK, Lyngby BK,
-IFS, Ikast FS,
-HIK, Hobro IK,
-HIF, Hvidovre IF
+AGF,Aarhus GF,C
+ABC,AB Copenhagen,P
+ACH,AC Horsens,R
+OBK, Odense BK,W
+RFC, Randers FC,C
+VBK, Vejle BK,P
+VFF, Viborg FF,R
+LBK, Lyngby BK,W
+IFS, Ikast FS,C
+HIK, Hobro IK,P
+HIF, Hvidovre IF,R
 
