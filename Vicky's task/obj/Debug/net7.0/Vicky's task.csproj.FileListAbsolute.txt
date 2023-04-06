@@ -1,0 +1,17 @@
+C:\Users\Anton\Documents\Projects\Vicky's task\bin\Debug\net7.0\Vicky's task.exe
+C:\Users\Anton\Documents\Projects\Vicky's task\bin\Debug\net7.0\Vicky's task.deps.json
+C:\Users\Anton\Documents\Projects\Vicky's task\bin\Debug\net7.0\Vicky's task.runtimeconfig.json
+C:\Users\Anton\Documents\Projects\Vicky's task\bin\Debug\net7.0\Vicky's task.dll
+C:\Users\Anton\Documents\Projects\Vicky's task\bin\Debug\net7.0\Vicky's task.pdb
+C:\Users\Anton\Documents\Projects\Vicky's task\obj\Debug\net7.0\Vicky's task.csproj.AssemblyReference.cache
+C:\Users\Anton\Documents\Projects\Vicky's task\obj\Debug\net7.0\Vicky's task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Documents\Projects\Vicky's task\obj\Debug\net7.0\Vicky's task.AssemblyInfoInputs.cache
+C:\Users\Anton\Documents\Projects\Vicky's task\obj\Debug\net7.0\Vicky's task.AssemblyInfo.cs
+C:\Users\Anton\Documents\Projects\Vicky's task\obj\Debug\net7.0\Vicky's task.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Documents\Projects\Vicky's task\obj\Debug\net7.0\Vicky's task.dll
+C:\Users\Anton\Documents\Projects\Vicky's task\obj\Debug\net7.0\refint\Vicky's task.dll
+C:\Users\Anton\Documents\Projects\Vicky's task\obj\Debug\net7.0\Vicky's task.pdb
+C:\Users\Anton\Documents\Projects\Vicky's task\obj\Debug\net7.0\Vicky's task.genruntimeconfig.cache
+C:\Users\Anton\Documents\Projects\Vicky's task\obj\Debug\net7.0\ref\Vicky's task.dll
+C:\Users\Anton\Documents\Projects\Vicky's task\bin\Debug\net7.0\CsvHelper.dll
+C:\Users\Anton\Documents\Projects\Vicky's task\obj\Debug\net7.0\Vicky's task.csproj.CopyComplete
